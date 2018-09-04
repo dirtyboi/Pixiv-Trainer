@@ -56,3 +56,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Ignoring the virtual python environment
+venv/*
